@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="octocat-1754870256210.png" alt="Meu Octocat" width="200"/>
+  <img src="./octocat-1754870256210.png" alt="Meu Octocat" width="200"/>
 </p>
 
 # 👋 Olá, eu sou o Henrique Guedes Silvestre  
