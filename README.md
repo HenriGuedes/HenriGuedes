@@ -72,7 +72,7 @@
 
 ---
 
-![Snake animation](https://github.com/seu-usuario-aqui/seu-usuario-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HenriqueGSilvestre/HenriqueGSilvestre/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ⭐ *Sempre aberto para novos desafios e colaborações!*
