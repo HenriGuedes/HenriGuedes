@@ -67,7 +67,7 @@
 ## 📫 Contato  
 
 📧 **Email:** [henriquegsilvestre@gmail.com](mailto:henriquegsilvestre@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/henriquegsilvestre](#)  
+🔗 **LinkedIn:** [www.linkedin.com/in/henrique-guedes-silv(#)  
 💻 **Portfólio:** *(em desenvolvimento)*  
 
 ---
