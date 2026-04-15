@@ -13,7 +13,7 @@ jobs:
       - name: Gerar Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: HenriqueGSilvestre
+          github_user_name: HenriGuedes
           outputs: |
             dist/github-contribution-grid-snake.svg
 
